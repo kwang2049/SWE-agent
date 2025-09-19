@@ -4,6 +4,7 @@ keys.yaml
 cov.xml
 trajectories/**
 !trajectories/demonstrations/**
+!trajectories/kwang/**
 data/**
 *.env
 !tools/*
